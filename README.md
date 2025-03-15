@@ -16,7 +16,8 @@ This project focuses on analyzing **E-commerce sales data** to gain insights int
 - **Python** (Pandas, Matplotlib, Seaborn, Plotly)  
 - **Jupyter Notebook**  
 - **Data Cleaning & Preprocessing**  
-- **Exploratory Data Analysis (EDA)**  
+- **Exploratory Data Analysis (EDA)**
+- <a href="https://github.com/Rajnandini-0804/E-commerce-/blob/main/E%20.commerce%20sales.ipynb"> project</a>
 
 ## 📊 Key Insights  
 📌 **Regional Trends:** Identified the most profitable and least profitable regions  
