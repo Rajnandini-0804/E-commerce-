@@ -4,8 +4,8 @@
 This project focuses on analyzing **E-commerce sales data** to gain insights into **sales trends, customer behavior, and profitability**. Using **Python, Pandas, and Plotly**, I have performed **data cleaning, exploratory data analysis (EDA), and visualization** to identify key business insights.  
 
 ## 🔍 Dataset  
-- **Source:** Sample Superstore dataset   
-
+- **Source:**  
+<a href="https://github.com/Rajnandini-0804/E-commerce-/blob/main/Sample%20-%20Superstore.csv"> Sample Superstore dataset</a>
 ## 🚀 Objectives  
 ✔ Analyze sales trends across different **categories, regions, and customer segments**  
 ✔ Identify **top-selling products** and their impact on revenue  
